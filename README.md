@@ -22,7 +22,8 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 3.- MARCO TEORICO:
 El Teorema de Thevelin, es una forma en la que se puede ¨reducir¨ un circuito el cual consta de dos terminales, por uno equivalente. Este cambio en el diseño del circuito, ayuda a que el análisis realizado no tenga que recalcularse luego de conectar un elemento variable en las dos terminales del circuito. El teorema de Thevelin, reemplaza al circuito lineal por una fuente de tensión (V_Th) y una resistencia (R_Th). 
-![] (https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Fig.1.png)
+
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Fig.1.png)
 
 La carga (elemento variable del circuito) puede ser representado por la adaptación de un dispositivo móvil, un radio, un computador, etc...
 Para hallar 
