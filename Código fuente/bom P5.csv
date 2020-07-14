@@ -1,0 +1,10 @@
+Nombre,Cantidad,Componente
+"PV1",1,"12 , 5  Suministro de energía"
+"PV2",1,"2 , 5  Suministro de energía"
+"R1",1,"560 Ω Resistencia"
+"R2",1,"4.7 kΩ Resistencia"
+"R3",1,"330 Ω Resistencia"
+"R5",1,"1 kΩ Resistencia"
+"Meter1",1,"Amperaje Multímetro"
+"Meter2",1,"Voltaje Multímetro"
+"R4",1,"100 Ω Resistencia"
