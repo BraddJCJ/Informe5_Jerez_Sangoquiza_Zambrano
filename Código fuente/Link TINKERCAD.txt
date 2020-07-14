@@ -1,1 +1,3 @@
-https://www.tinkercad.com/things/jEu9exXEGpN-practica-n5/editel?sharecode=1EBqMH9tR03cbtw7uoe4kHNuwTm2VkLI3l-alpRvjjo
+Circuito designado. https://www.tinkercad.com/things/jEu9exXEGpN-practica-n5/editel?sharecode=1EBqMH9tR03cbtw7uoe4kHNuwTm2VkLI3l-alpRvjjo
+
+Circuito de Thevenin. https://www.tinkercad.com/things/7rc8XAHAKpf-surprising-fulffy/editel?tenant=circuits?sharecode=TC-56NzdslsOHBRuKK5XP80y6qAJZqa5S4ScCFuFW_s
