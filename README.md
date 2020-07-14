@@ -11,9 +11,11 @@ Fecha: 2020 - 07 - 15
 1.- PLANTEAMIENTO DEL PROBLEMA:
 
 2.- OBJETIVOS:
-* General: 
+* General: \\
 Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 * Específico:
+
+
 
 
 3.- MARCO TEORICO:
