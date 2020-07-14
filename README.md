@@ -1,6 +1,6 @@
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/ESPE_LOGO.png)
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Logo_ESPE.png)
 
 ¨Práctica de Laboratorio N°4 Teorema de Thevenin¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
