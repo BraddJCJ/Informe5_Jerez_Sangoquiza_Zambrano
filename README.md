@@ -2,7 +2,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Logo_ESPE.png)
 
-¨Práctica de Laboratorio N°5 Teorema de Thevenin¨  
+¨Práctica de Laboratorio N°5 Teorema de Thévenin¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
 Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.  
 NRC: 8702   
@@ -30,6 +30,22 @@ Para hallar a implementar este diseño de circuito, se debe obtener un voltaje V
 
 
 4.- DIAGRAMAS:
+
+Circuito designad:
+
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama%20P5.png)
+
+Voltaje de Thévenin:
+
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Pr%C3%A1cticaN5VTh.png)
+
+Resistencia de Thévenin:
+
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Pr%C3%A1cticaN5RTh.png)
+
+Circuito de Thévenin:
+
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama%20P5Th.png)
 
 5.- LISTA DE COMPONENTES: 
 
