@@ -78,4 +78,6 @@ Circuito de Thevenin:
 -  Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
 
  11.-ANEXOS:
+ Link cono acceso al análisis de datos realizados en LaTeX
+(https://www.overleaf.com/3347165426hjzftvdfhgvf)
  
