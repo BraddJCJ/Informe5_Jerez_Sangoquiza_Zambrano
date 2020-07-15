@@ -16,6 +16,8 @@ Fecha: 2020 - 07 - 15
 Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 * Específico:
 
+Identificar la importancia en la implementación de un circuito equivalente de Thevelin.
+Rediseñar el circito plantedo aplicando el teorema de Thévelin
 
 
 
