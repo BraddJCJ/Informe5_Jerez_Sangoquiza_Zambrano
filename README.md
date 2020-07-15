@@ -82,3 +82,7 @@ Circuito de Thevenin:
  Link cono acceso al análisis de datos realizados en LaTeX
 (https://www.overleaf.com/3347165426hjzftvdfhgvf)
  
+ Analisis de los errores:
+ ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/error1.png)
+ 
+ ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/error2.png)
