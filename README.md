@@ -59,9 +59,15 @@ Circuito de Thevenin:
 6.-  DESCRIPCCION DE PREREQUISITOS Y CONFIGURACIÓN:
  
 7.- CONCLUSIONES:
+
+-La implementación de un elemento variable en un circuito, llega a alterar los valores calculados de todo el circuito 
+-Es muy importante rediseñar un circuito, el cual es expuesto a un elemento variable, puesto que existirá una variación en los cálculos una vez realizados, por lo que este ¨fallo en los análisis¨ puede perjudicar al elemto conectado, por ejemplo, un celular y en el peor de los casos ¨quemarlo¨.
  
 8.-RECOMENDACIONES:
+
+ Siempre es necesario realizar las medidas correctas antes de ensamblar un circuito, debido a que si este es expuesto a un elemento de carga variable, existirán grandes complicaciones que afectarán directamente a al dispositivo conectado.
  
+
 9.- CRONOGRAMA:
  
 10.- BIBLIOGRAFIA
