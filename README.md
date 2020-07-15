@@ -54,7 +54,9 @@ Circuito de Thevenin:
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/DiagramaP5The.png)
 
 
-5.- LISTA DE COMPONENTES: 
+5.- LISTA DE COMPONENTES:
+
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Componentes.png)
 
 6.-  DESCRIPCCION DE PREREQUISITOS Y CONFIGURACIÓN:
  
