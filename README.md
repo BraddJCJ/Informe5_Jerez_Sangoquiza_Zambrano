@@ -16,8 +16,11 @@ Fecha: 2020 - 07 - 15
 Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 * Específico:
 
-Identificar la importancia en la implementación de un circuito equivalente de Thevelin.
-Rediseñar el circito plantedo aplicando el teorema de Thévelin
+-Identificar la importancia en la implementación de un circuito equivalente de Thevelin.
+
+-Rediseñar el circito, planteando aplicando el teorema de Thévelin.
+
+-Determinar el comportamiento del circuito al implementar un elemento variable. 
 
 
 
@@ -33,22 +36,6 @@ Para hallar a implementar este diseño de circuito, se debe obtener un voltaje V
 
 
 4.- DIAGRAMAS:
-
-Circuito designado:
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama%20P5.png)
-
-Voltaje de Thévenin:
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Pr%C3%A1cticaN5VTh.png)
-
-Resistenia de Thévenin:
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Pr%C3%A1cticaN5%20RTh.png)
-
-Circuito de Thévenin
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama%20P5%20Th.png)
 
 5.- LISTA DE COMPONENTES: 
 
