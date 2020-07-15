@@ -59,10 +59,8 @@ Circuito de Thevenin:
 5.- LISTA DE COMPONENTES:
 
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Componentes.png)
-
-6.-  DESCRIPCCION DE PREREQUISITOS Y CONFIGURACIÓN:
  
-7.- CONCLUSIONES:
+6.- CONCLUSIONES:
 
 -La implementación de un elemento variable en un circuito, llega a alterar los valores calculados de todo el circuito 
 -Es muy importante rediseñar un circuito, el cual es expuesto a un elemento variable, puesto que existirá una variación en los cálculos una vez realizados, por lo que este ¨fallo en los análisis¨ puede perjudicar al elemto conectado, por ejemplo, un celular y en el peor de los casos ¨quemarlo¨.
@@ -70,7 +68,7 @@ Circuito de Thevenin:
 - El calculo de los errores se mantiene bajo el valor maximo permitido, por lo cual podemos asegurar que los valores obtenidos son correctos para su uso en diferentes apartados del informe u otros.
 - Los valores del circuito original con el circuito Thevenin son extremadamente parecidos, asi que podemos asegurar que por el metodo de Thevenin, obtendremos valores reales del circuito.
  
-8.-RECOMENDACIONES:
+7.-RECOMENDACIONES:
 
 - Siempre es necesario realizar las medidas correctas antes de ensamblar un circuito, debido a que si este es expuesto a un elemento de carga variable, existirán grandes complicaciones que afectarán directamente a al dispositivo conectado.
  
@@ -79,15 +77,15 @@ Circuito de Thevenin:
 - Al nalaizar el cualquier circuito electrico, nosotros debemos saber diferenciar cual sera el metodo mas eficiente y rapido para resolverlo. Dado esto, conocemos el analisis de un circuito Thevenin.
  
 
-9.- CRONOGRAMA:
+8.- CRONOGRAMA:
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Cronograma.png)
  
-10.- BIBLIOGRAFIA
+9.- BIBLIOGRAFIA
  
  - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
 -  Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
 
- 11.-ANEXOS:
+ 10.-ANEXOS:
  Link cono acceso al análisis de datos realizados en LaTeX
 (https://www.overleaf.com/3347165426hjzftvdfhgvf)
  
