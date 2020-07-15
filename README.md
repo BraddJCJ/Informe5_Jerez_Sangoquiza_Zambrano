@@ -26,7 +26,7 @@ El Teorema de Thevelin, es una forma en la que se puede ¨reducir¨ un circuito 
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Fig.1.png)
 
 La carga (elemento variable del circuito) puede ser representado por la adaptación de un dispositivo móvil, un radio, un computador, etc...
-Para hallar 
+Para hallar a implementar este diseño de circuito, se debe obtener un voltaje Vo
 
 
 4.- DIAGRAMAS:
