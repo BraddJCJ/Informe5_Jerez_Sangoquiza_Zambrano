@@ -2,7 +2,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Logo_ESPE.png)
 
-¨Práctica de Laboratorio N°5 Teorema de Thévenin¨  
+¨Práctica de Laboratorio N°5 Teorema de Thevenin¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
 Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.  
 NRC: 8702   
@@ -26,26 +26,11 @@ El Teorema de Thevelin, es una forma en la que se puede ¨reducir¨ un circuito 
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Fig.1.png)
 
 La carga (elemento variable del circuito) puede ser representado por la adaptación de un dispositivo móvil, un radio, un computador, etc...
-Para hallar a implementar este diseño de circuito, se debe obtener un voltaje Vo
+Para hallar a implementar este diseño de circuito, se debe obtener un voltaje Vo, el cual se encontrará entre las termianles del circuito abierto (a) y (b). Este voltaje Vo será representado por el voltaje de Thevelin (V_Th), mientras que para hallar la resistencia de Thevelin, se hará una sumatoria de todas las resistencias de igual forma que con el método de “superposición”, en otras palabras, se apagarán todas las fuentes independientes del circuito. Canbe mencionar que se aplica el mismo concepto de que “fuentes dependientes” no se apagan.
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Sadiku%203%20Ed.pdf%20-%20Adobe%20Acrobat%20Reader%20DC%2014_07_2020%2019_43_00.png)
 
 
 4.- DIAGRAMAS:
-
-Circuito designad:
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama%20P5.png)
-
-Voltaje de Thévenin:
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Pr%C3%A1cticaN5VTh.png)
-
-Resistencia de Thévenin:
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Pr%C3%A1cticaN5RTh.png)
-
-Circuito de Thévenin:
-
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama%20P5Th.png)
 
 5.- LISTA DE COMPONENTES: 
 
