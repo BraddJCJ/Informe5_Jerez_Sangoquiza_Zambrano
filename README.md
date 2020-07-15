@@ -2,7 +2,7 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 ![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Logo_ESPE.png)
 
-¨Práctica de Laboratorio N°5 Teorema de Thevelin¨  
+¨Práctica de Laboratorio N°5 Teorema de Thévelin¨  
 ¨Fundamentos de Circuitos Eléctricos¨  
 Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.  
 NRC: 8702   
@@ -16,9 +16,9 @@ Fecha: 2020 - 07 - 15
 Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 * Específico:
 
--Identificar la importancia en la implementación de un circuito equivalente de Thevelin.
+-Identificar la importancia en la implementación de un circuito equivalente de Thévelin.
 
--Rediseñar el circito, planteando aplicando el teorema de Thévelin.
+-Rediseñar el circito, planteado aplicando el teorema de Thévelin.
 
 -Determinar el comportamiento del circuito al implementar un elemento variable. 
 
