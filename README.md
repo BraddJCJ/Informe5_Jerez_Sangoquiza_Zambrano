@@ -54,7 +54,7 @@ Resistencia de Thévenin:
 
 Circuito de Thevenin:
 
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/DiagramaP5The.png)
+![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/DiagramaCTh.png)
 
 
 5.- LISTA DE COMPONENTES:
