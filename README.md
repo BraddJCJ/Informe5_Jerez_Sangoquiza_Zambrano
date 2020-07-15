@@ -78,7 +78,7 @@ Circuito de Thevenin:
  
 
 8.- CRONOGRAMA:
-![](https://github.com/BraddJCJ/Informe5_Jerez_Sangoquiza_Zambrano/blob/master/img/Cronograma.png)
+![]()
  
 9.- BIBLIOGRAFIA
  
